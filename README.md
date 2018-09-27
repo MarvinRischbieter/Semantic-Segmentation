@@ -1,4 +1,4 @@
-# Project 12: Semantic Segmentation
+# Semantic Segmentation
 
 The task of the project is to label the pixels of a road in images using a Fully Convolutional Network (FCN). 
 
