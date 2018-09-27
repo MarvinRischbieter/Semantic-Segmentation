@@ -1,7 +1,3 @@
----
-typora-root-url: runs\1533506434.3253
----
-
 # Project 12: Semantic Segmentation
 
 The task of the project is to label the pixels of a road in images using a Fully Convolutional Network (FCN). 
@@ -29,5 +25,4 @@ loss += L2_WEIGHT * l2_loss
 
 The results looked very good and labelled at least 80% of the road:
 
-![um_000021](/um_000021.png)
-
+![um_000021](./runs/1533506434.3253/um_000021.png)
